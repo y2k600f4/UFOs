@@ -9,7 +9,7 @@ An interactive webpage has beeen created that allows the user to filter data reg
 
 
 
-![UFO_Sightings_Website_Sample_Filter](https://github.com/y2k600f4/UFOs/blob/images/UFO_Sightings_Website_Sample_Filter.png)
+![UFO_Sightings_Website_Sample_Filter](https://github.com/y2k600f4/UFOs/blob/main/static/images/UFO_Sightings_Website_Sample_Filter.png)
 
 ## Summary
 
